@@ -1,0 +1,14 @@
+.country-name-input {
+  width: 200px;
+}
+
+.form-view {
+  width: fit-content;
+  margin: 50px auto 50px auto;
+  padding: 10px;
+  border-style: solid;
+}
+
+.send-button {
+  width: 100%;
+}

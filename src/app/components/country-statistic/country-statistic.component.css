@@ -1,0 +1,12 @@
+.country-statistic-view {
+  width: 40%;
+  margin: auto auto 10px auto;
+  border-style: solid;
+  padding: 10px;
+}
+
+@media screen and (max-width: 1000px) {
+  .country-statistic-view {
+    width: 95%;
+  }
+}
